@@ -1,0 +1,14 @@
+weather-forecast-app/
+│
+├── public/
+│   ├── index.html
+├── src/
+│   ├── components/
+│   │   ├── WeatherCard.js
+│   │   ├── WeatherForm.js
+│   ├── App.js
+│   ├── index.js
+│   └── styles.css
+├── .gitignore
+├── package.json
+└── README.md
